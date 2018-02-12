@@ -1,0 +1,100 @@
+
+body {
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+
+.logohome {
+		float: left;
+		margin-right: 0px;
+}
+
+.logohome img {
+	height: 100px;
+	margin: 1px 20px 20px 20px;
+	width: 200px;
+}
+
+
+.menu ul {
+	margin-left: 100px;
+}
+
+.menu li {
+	margin-top: 30px; 
+	list-style-type: none;
+	float: right;
+	margin-left: 20px;
+	padding: 1px 120px 1px 3px;
+}
+
+.menu a {
+	text-decoration: none;
+	font-family: Verdana, Helvetica. 'MS Serif';
+	font-size: 30px;
+	font-style: normal;
+	color: #000000;
+}
+
+.line p {
+	margin-left: 30px;
+}
+
+.poster img {
+	width: 700px;
+	height:300px;
+	margin-left: 305px;
+	margin-top: 30px;
+}
+
+.poster h1 {
+	color: #5F5F5F;
+	font-size: 25px;
+	font-family: Helvetica. Verdana, 'MS Serif';
+	position: relative;
+	top: -200px;
+	text-align: center;
+	margin-left: 460px;
+	margin-top: 10px;
+}
+
+.citate {
+			font-size: 19px;
+			font-style: italic; 
+			font-family: Helvetica. Verdana, 'MS Serif';
+
+}
+
+.citate p {
+		position: relative;
+		top: -400px;
+		margin-top: 48px;
+}
+
+.logocitate {
+		position: relative;
+		top: -384px;
+		margin-left: 30px;
+		font-size: 22px;
+}
+
+.reading {
+	color: #0A77D6;
+	font-family: Helvetica. Verdana, 'MS Serif';
+	font-size: 30px;
+}
+.noan {
+	color: #0A77D6;
+	font-family: Helvetica. Verdana, 'MS Serif';
+	font-size: 20px;
+}
+.smysl {
+	color: #0A77D6;
+	font-family: Helvetica. Verdana, 'MS Serif';
+	font-size: 23px;
+}
+
+.nazad {
+	height: 2px;
+	width: 20px;
+}
